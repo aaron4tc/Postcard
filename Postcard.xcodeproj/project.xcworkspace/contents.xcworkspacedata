@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Postcasd.xcodeproj">
+      location = "self:Postcard.xcodeproj">
    </FileRef>
 </Workspace>
